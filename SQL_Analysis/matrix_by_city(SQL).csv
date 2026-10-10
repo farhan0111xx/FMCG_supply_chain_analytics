@@ -1,0 +1,4 @@
+city,total_orders,total_on_time_orders,total_in_full_orders,total_OTIF_orders,on_time_pct,in_full_pct,otif__pct
+Surat,3181,1957,1651,942,61.52,51.90,29.61
+Vadodara,3582,2074,1853,980,57.90,51.73,27.36
+Ahmedabad,3682,2161,1963,1065,58.69,53.31,28.92

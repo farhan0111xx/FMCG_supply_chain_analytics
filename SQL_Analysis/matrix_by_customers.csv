@@ -1,0 +1,16 @@
+customer_name,total_orders,total_on_time_orders,total_in_full_orders,total_OTIF_orders,on_time_pct,in_full_pct,otif__pct
+"Acclaimed Stores",1168,331,620,166,28.34,53.08,14.21
+"Lotus Mart",1155,325,608,186,28.14,52.64,16.10
+"Vijay Stores",823,595,367,227,72.30,44.59,27.58
+"Propel Mart",802,597,480,333,74.44,59.85,41.52
+Coolblue,798,238,346,112,29.82,43.36,14.04
+"Rel Fresh",771,566,427,272,73.41,55.38,35.28
+"Info Stores",559,397,237,150,71.02,42.40,26.83
+"Expert Mart",553,394,322,204,71.25,58.23,36.89
+"Logic Stores",553,391,356,233,70.71,64.38,42.13
+"Viveks Stores",550,396,323,216,72.00,58.73,39.27
+"Elite Mart",549,410,203,134,74.68,36.98,24.41
+"Atlas Stores",546,397,327,220,72.71,59.89,40.29
+"Chiptec Stores",544,389,329,210,71.51,60.48,38.60
+"Expression Stores",541,379,325,199,70.06,60.07,36.78
+"Sorefoz Mart",533,387,197,125,72.61,36.96,23.45

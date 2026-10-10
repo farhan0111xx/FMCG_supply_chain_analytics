@@ -1,0 +1,36 @@
+city,customer_name,actual_otif_pct,otif_target_pct,otif_gap_target
+Ahmedabad,"Propel Mart",37.91,71,33.09
+Ahmedabad,"Atlas Stores",41.26,68,26.74
+Ahmedabad,"Sorefoz Mart",9.49,59,49.51
+Ahmedabad,"Expert Mart",37.72,75,37.28
+Ahmedabad,"Vijay Stores",34.88,73,38.12
+Ahmedabad,"Elite Mart",41.09,73,31.91
+Ahmedabad,"Rel Fresh",32.20,69,36.80
+Ahmedabad,"Chiptec Stores",39.11,70,30.89
+Ahmedabad,"Logic Stores",41.45,67,25.55
+Ahmedabad,"Lotus Mart",8.27,51,42.73
+Ahmedabad,Coolblue,20.30,60,39.70
+Ahmedabad,"Acclaimed Stores",19.66,62,42.34
+Surat,"Info Stores",8.99,62,53.01
+Surat,"Expression Stores",30.14,69,38.86
+Surat,"Propel Mart",37.87,67,29.13
+Surat,"Vijay Stores",39.05,69,29.95
+Surat,"Rel Fresh",36.25,70,33.75
+Surat,"Chiptec Stores",38.10,74,35.90
+Surat,"Atlas Stores",39.23,69,29.77
+Surat,"Acclaimed Stores",4.99,51,46.01
+Surat,"Viveks Stores",39.77,74,34.23
+Surat,"Lotus Mart",21.39,59,37.61
+Surat,"Logic Stores",42.81,66,23.19
+Vadodara,"Expert Mart",36.03,71,34.97
+Vadodara,"Viveks Stores",38.81,71,32.19
+Vadodara,"Propel Mart",49.41,68,18.59
+Vadodara,"Vijay Stores",8.21,62,53.79
+Vadodara,"Expression Stores",44.02,69,24.98
+Vadodara,"Elite Mart",7.66,60,52.34
+Vadodara,"Acclaimed Stores",16.96,60,43.04
+Vadodara,Coolblue,7.77,49,41.23
+Vadodara,"Rel Fresh",37.50,70,32.50
+Vadodara,"Sorefoz Mart",38.22,66,27.78
+Vadodara,"Lotus Mart",18.68,64,45.32
+Vadodara,"Info Stores",44.48,69,24.52
