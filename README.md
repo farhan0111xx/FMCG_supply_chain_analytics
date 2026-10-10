@@ -43,12 +43,12 @@ The project evaluates 8 core business questions using SQL (`JOIN`s, `CASE` state
 ## 📸 Dashboard Preview
 
 ### 1. Executive Summary
-![Executive Dashboard](<img width="1810" height="941" alt="image" src="https://github.com/user-attachments/assets/fd129950-6b93-4aa2-931a-cdb817b3764e" />
-)
+<img width="1810" height="941" alt="image" src="https://github.com/user-attachments/assets/fd129950-6b93-4aa2-931a-cdb817b3764e" />
+
 
 ### 2. Customer & Order-Line Analysis
-![Customer Dashboard](<img width="1805" height="945" alt="image" src="https://github.com/user-attachments/assets/8f448683-80b7-4902-9693-1ce2dfc8260e" />
-)
+<img width="1805" height="945" alt="image" src="https://github.com/user-attachments/assets/8f448683-80b7-4902-9693-1ce2dfc8260e" />
+
 ### 3. Product Analysis
  <img width="1770" height="940" alt="image" src="https://github.com/user-attachments/assets/92eedd53-a0bf-414c-84c8-a05135997b92" />
 
